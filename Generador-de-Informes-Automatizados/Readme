@@ -19,7 +19,7 @@ Ideal para informes de gastos, presupuestos o cualquier tipo de documento que re
 - BytesIO para manipulación de archivos en memoria
 
 ##Instalación
- 1. Clona este repositorio: git clone https://github.com/Ezequiel-Coder/Repo-Dev/tree/4ba70d499b0af80dcc7e7544e4769492562052fe/Repo-Proyectos-Python/Generador-de-Informes-Automatizados
+ 1. Clona este repositorio: git clone https://github.com/ezequiel-dev93/Proyectos-Python/tree/main/Generador-de-Informes-Automatizados
  2. Navega el directorio del proyecto: cd Generador-de-Informes-Automatizados
  3. Instala los paquetes requeridos: pip install -r requirements.txt
  4. Ejecuta la aplicación: streamlit run App.py
